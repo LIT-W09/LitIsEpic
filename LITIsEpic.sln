@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LITIsEpic.Web", "LITIsEpic.Web\LITIsEpic.Web.csproj", "{D5DA8F96-808E-4D4E-9FDA-71FA9CC6683F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LITIsEpic.Data", "LITIsEpic.Data\LITIsEpic.Data.csproj", "{46C188CE-214F-453F-AAA3-7BC9A4239BBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5DA8F96-808E-4D4E-9FDA-71FA9CC6683F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DA8F96-808E-4D4E-9FDA-71FA9CC6683F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DA8F96-808E-4D4E-9FDA-71FA9CC6683F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DA8F96-808E-4D4E-9FDA-71FA9CC6683F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C188CE-214F-453F-AAA3-7BC9A4239BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C188CE-214F-453F-AAA3-7BC9A4239BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C188CE-214F-453F-AAA3-7BC9A4239BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C188CE-214F-453F-AAA3-7BC9A4239BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFFB3FAF-EF35-4067-A2AD-4E33E7FD0722}
+	EndGlobalSection
+EndGlobal
